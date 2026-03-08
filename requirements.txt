@@ -1,0 +1,4 @@
+flask
+openai
+azure-search-documents
+azure-core
